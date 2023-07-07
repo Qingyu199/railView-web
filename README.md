@@ -28,7 +28,7 @@
 ![1688756129311](https://github.com/Qingyu199/railView-web/assets/30193452/1eb35718-d63e-40d3-b269-ec82fa395e80)
 
 
-双击startup.bat文件，打开浏览器，输入地址：`localhost：8080`，
+双击startup.bat文件，打开浏览器，输入地址：`localhost:8080`，
 
 ![1688756391715](https://github.com/Qingyu199/railView-web/assets/30193452/515ba179-d151-4e97-8522-71a3f3dff7ac)
 
@@ -50,7 +50,7 @@
 ![image](https://github.com/Qingyu199/railView-web/assets/30193452/7e6f881a-45f3-489d-95d3-7fc18276b5e4)
 
 
-5.双击startup.bat文件，打开浏览器，输入地址：`localhost：8080/railView-web`，就可以使用本程序了
+5.双击startup.bat文件，打开浏览器，输入地址：`localhost:8080/railView-web`，就可以使用本程序了
 
 
 
